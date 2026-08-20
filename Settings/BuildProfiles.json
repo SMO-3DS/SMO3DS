@@ -7,7 +7,8 @@
         {
             "id": 1,
             "name": "Default",
-            "platform": 0,
+            "platform": 5,
+            "targetId": "polyphase.n3ds",
             "embedded": true,
             "staticContent": false,
             "contentPak": false,
