@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "selectedProfileIndex": 0,
+    "nextProfileId": 2,
+    "currentTargetProfileId": 0,
+    "profiles": [
+        {
+            "id": 1,
+            "name": "Default",
+            "platform": 0,
+            "embedded": true,
+            "staticContent": false,
+            "contentPak": false,
+            "outputDirectory": "",
+            "useDocker": false,
+            "openDirectoryOnFinish": true
+        }
+    ]
+}

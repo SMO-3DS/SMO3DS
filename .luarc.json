@@ -1,0 +1,15 @@
+{
+    "runtime": {
+        "version": "Lua 5.3"
+    },
+    "workspace": {
+        "library": [
+            "/opt/polyphase/Engine/Generated/LuaMeta"
+        ]
+    },
+    "diagnostics": {
+        "globals": [
+            "self"
+        ]
+    }
+}
